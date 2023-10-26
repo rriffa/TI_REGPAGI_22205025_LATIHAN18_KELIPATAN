@@ -10,6 +10,7 @@ package latihan18;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :22205025
+ Deskripsi :Menampilkan program bilangan kelipatan
  */
 public class Latihan18 {
 
